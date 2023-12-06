@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kean Calendar</string>
+    <string name="touch_btn">Add Event</string>
+    <string name="touch_btn1">Next Page</string>
+</resources>
